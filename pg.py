@@ -1,7 +1,7 @@
 import random
 
 input("This program generates easy-to-remember passwords by adding hints typed in by the user")
-bruh = input("Enter a hint to added to your password. If there are multiple, seperate them with commas")
+bruh = input("Enter a hint to be added to your password. If there are multiple, seperate them with commas")
 size = int(input("Enter password length"))
 
 bruh2 = list(bruh)
