@@ -16,4 +16,4 @@ If on macOS/Linux -
 
 
 
-Credits - @Neelgodly for testing an reporting every issue
+Credits - @Neelgodly for testing an reporting every issue. P.S-For being a dickhead
