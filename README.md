@@ -11,3 +11,9 @@ If on shitty windows -
 
 If on macOS/Linux -
   Every step mentioned above except 1st
+
+
+
+
+
+Credits - @Neelgodly for testing an reporting every issue
