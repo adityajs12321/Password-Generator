@@ -6,7 +6,6 @@ This program will be deprecated after 14/02/2022 and no longer maintained. If yo
 Note: RUN THE SETUP FILE FIRST OR ULTRA FLOP
 
 
-If you haven't run the setup file before reinstall <insert any os here>.
-
+If you haven't run the setup file before reinstall your OS
 
 Credits - @Neelgodly for testing and reporting every issue.
