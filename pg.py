@@ -16,7 +16,7 @@ hints = []
 synonyms = wordnet.synsets("hint")
 for ss in synonyms :
   if ss.name() not in hints :
-     hints.append(ss.name())
+     hints.append(ss.name()[:len(ss.name())-4)])
   
 hintsFinal = random.sample(hints, 2)
 
@@ -24,6 +24,6 @@ final = hintsFinal+lmfao
 
 str1 = ''.join(final)
 
-print("Password: ", final)
+print("Password: ", str1)
 #JS sux
 #prawnie sux
