@@ -1,8 +1,9 @@
 import subprocess
 
 def module_installation() :
-  subprocess.run('pip install nltk')
+  subprocess.run(['pip', 'install', 'nltk'])
 
+module_installation()
 
 import nltk
 nltk.download('wordnet')
