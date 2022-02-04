@@ -4,6 +4,7 @@ import random
 input("This program generates easy-to-remember passwords by adding hints typed in by the user")
 bruh = input("Enter a hint to be added to your password")
 
+from nltk.corpus import wordnet
 
 bruh2 = list(bruh)
 
