@@ -1,9 +1,15 @@
 import random
+import subprocess
+
+def module_installation :
+  subprocess.run('pip install nltk')
 
 input("This program generates easy-to-remember passwords by adding hints typed in by the user")
 bruh = input("Enter a hint to be added to your password")
 
 import nltk
+nltk.download('wordnet')
+nltk.download('omw-1.4')
 from nltk.corpus import wordnet
 
 bruh2 = list(bruh)
