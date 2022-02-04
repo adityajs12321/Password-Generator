@@ -1,7 +1,7 @@
 import random
 import subprocess
 
-def module_installation :
+def module_installation() :
   subprocess.run('pip install nltk')
 
 input("This program generates easy-to-remember passwords by adding hints typed in by the user")
