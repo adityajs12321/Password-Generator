@@ -15,7 +15,7 @@ hints = []
 
 synonyms = wordnet.synsets(bruh)
 for ss in synonyms :
-  if ss.name()[:len(ss.name())-4]) not in hints :
+  if ss.name()[:len(ss.name())-4] not in hints :
      hints.append(ss.name()[:len(ss.name())-4])
   
 hintsFinal = random.sample(hints, 2)
