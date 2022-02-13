@@ -6,14 +6,7 @@ This program will be deprecated after 14/02/2022 and no longer maintained. If yo
 Note: RUN THE SETUP FILE FIRST OR ULTRA FLOP.
 If you haven't run the setup file before reinstall your OS
 
-
-
-
 NOT FOR PEOPLE UNDER THE AGE OF 18
-
-
-
-
 
 Credits - @Neelgodly for testing and reporting and fixing ever issue
           
