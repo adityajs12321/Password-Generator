@@ -9,8 +9,11 @@ If you haven't run the setup file before reinstall your OS
 
 
 
+NOT FOR PEOPLE UNDER THE AGE OF 18
 
 
 
 
-Credits - @Neelgodly for testing and reporting every issue.
+
+Credits - @Neelgodly for testing and reporting and fixing ever issue
+          
