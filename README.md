@@ -10,4 +10,4 @@ NOT FOR PEOPLE UNDER THE AGE OF 18
 
 Credits - @Neelgodly for testing and reporting and fixing every issue
 
-          @Pranavkool for trying to sabotage the entire operation
+   @Pranavkool for trying to sabotage the entire operations
