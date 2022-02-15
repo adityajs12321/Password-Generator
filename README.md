@@ -18,6 +18,7 @@ This program will be deprecated after 14/02/2022 and no longer maintained. If yo
    - Run PG.app after the command stops running.
 3. ## Linux
    PGOP lacks GUI support in linux and hence must be used via the Terminal
+   
    Must have Python 3 and the tkinter module installed to run the program.
    - Download the source code available in the [Releases](https://github.com/AdityaJS12321/Password-Generator/releases) section.
    - Run 'python3 /path/to/file/setup.py' in Terminal
