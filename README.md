@@ -25,5 +25,5 @@ This program will be deprecated after 14/02/2022 and no longer maintained. If yo
    - After the process stops, run 'python3 /path/to/file/pg.py' in Terminal. The app should launch automatically.
    
 # Credits - 
-   - @Neelgodly for testing and reporting and fixing every issue.     
-   - @Pranavkool for trying to sabotage the entire operation.
+   - **@Neelgodly for testing and reporting and fixing every issue.  **   
+   - **@Pranavkool for trying to sabotage the entire operation.**
