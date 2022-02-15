@@ -3,9 +3,9 @@ For good and innocent folks who want efficient passwords.
 
 This program will be deprecated after 14/02/2022 and no longer maintained. If you want future updates, sit and cope.
 
-Note: Ignore the setup file or ULTRA FLOP. If you ran the setup file reinstall your OS
+**Note: Ignore the setup file or ULTRA FLOP. If you ran the setup file reinstall your OS**
 
-NOT FOR PEOPLE UNDER THE AGE OF 18
+**_NOT FOR PEOPLE UNDER THE AGE OF 18_**
 
 # Downloads
 1. ## Windows
