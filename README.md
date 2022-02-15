@@ -14,7 +14,7 @@ This program will be deprecated after 14/02/2022 and no longer maintained. If yo
 2. ## macOS
    - Download PGMac-64bit.zip from the assets drop down window in [Releases](https://github.com/AdityaJS12321/Password-Generator/releases) section.
    - Unzip the file and DO NOT RUN IT OR ULTRA MEGA TERA FLOP.
-   - Open [Terminal](https://support.apple.com/en-in/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac) and type 'xattr -cr /Users/<your_username>/Downloads/PGMac-64bit/pg.app' and press enter.
+   - Open [Terminal](https://support.apple.com/en-in/guide/terminal/apd5265185d-f365-44cb-8b09-71a064a42125/mac) and type ' xattr -cr /Users/<your_username>/Downloads/PGMac-64bit/pg.app ' and press enter.
    - Run PG.app after the command stops running.
 3. ## Linux
    PGOP lacks GUI support in linux and hence must be used via the Terminal
